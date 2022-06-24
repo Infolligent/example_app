@@ -1,5 +1,6 @@
 ## Setting Up
 composer install
+
 php artisan serve
 
 ## Maintenance Mode
